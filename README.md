@@ -6,6 +6,7 @@
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[Python3](./solutions/344.%20Reverse%20String.py)|188 ms|
 |709|[ To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python3](./solutions/709.%20To%20Lower%20Case.py)|52 ms|
 |922|[ Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python3](./solutions/922.%20Sort%20Array%20By%20Parity%20II.py)|204 ms|
+|929|[ Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[Python3](./solutions/929.%20Unique%20Email%20Addresses.py)|80 ms|
 |1108|[ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python3](./solutions/1108.%20Defanging%20an%20IP%20Address.py)|32 ms|
 |1221|[ Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Python3](./solutions/1221.%20Split%20a%20String%20in%20Balanced%20Strings.py)|32 ms|
 |1313|[ Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Python3](./solutions/1313.%20Decompress%20Run-Length%20Encoded%20List.py)|64 ms|
