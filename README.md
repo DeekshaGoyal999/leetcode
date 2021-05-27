@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Runtime |
 |---| ----- | -------- | ------- |
+|1|[ Two Sum](https://leetcode.com/problems/two-sum/)|[Python3](./solutions/1.%20Two%20Sum.py)|4012 ms|
 |922|[ Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python3](./solutions/922.%20Sort%20Array%20By%20Parity%20II.py)|204 ms|
 |1313|[ Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Python3](./solutions/1313.%20Decompress%20Run-Length%20Encoded%20List.py)|64 ms|
 |1365|[ How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Python3](./solutions/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.py)|428 ms|
