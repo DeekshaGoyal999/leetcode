@@ -3,6 +3,7 @@
 | # | Title | Solution | Runtime |
 |---| ----- | -------- | ------- |
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)|[Python3](./solutions/1.%20Two%20Sum.py)|4012 ms|
+|709|[ To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python3](./solutions/709.%20To%20Lower%20Case.py)|52 ms|
 |922|[ Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python3](./solutions/922.%20Sort%20Array%20By%20Parity%20II.py)|204 ms|
 |1108|[ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python3](./solutions/1108.%20Defanging%20an%20IP%20Address.py)|32 ms|
 |1221|[ Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Python3](./solutions/1221.%20Split%20a%20String%20in%20Balanced%20Strings.py)|32 ms|
