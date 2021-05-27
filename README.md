@@ -19,6 +19,7 @@
 |1614|[ Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|[Python3](./solutions/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.py)|28 ms|
 |1672|[ Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Python3](./solutions/1672.%20Richest%20Customer%20Wealth.py)|48 ms|
 |1678|[ Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Python3](./solutions/1678.%20Goal%20Parser%20Interpretation.py)|32 ms|
+|1684|[ Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[Python3](./solutions/1684.%20Count%20the%20Number%20of%20Consistent%20Strings.py)|260 ms|
 |1732|[ Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[Python3](./solutions/1732.%20Find%20the%20Highest%20Altitude.py)|28 ms|
 |1773|[ Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)|[Python3](./solutions/1773.%20Count%20Items%20Matching%20a%20Rule.py)|240 ms|
 |1823|[ Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)|[Python3](./solutions/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game.py)|524 ms|
