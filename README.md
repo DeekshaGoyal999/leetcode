@@ -16,6 +16,7 @@
 |1486|[ XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Python3](./solutions/1486.%20XOR%20Operation%20in%20an%20Array.py)|32 ms|
 |1512|[ Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Python3](./solutions/1512.%20Number%20of%20Good%20Pairs.py)|36 ms|
 |1534|[ Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)|[Python3](./solutions/1534.%20Count%20Good%20Triplets.py)|376 ms|
+|1614|[ Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|[Python3](./solutions/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.py)|28 ms|
 |1672|[ Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Python3](./solutions/1672.%20Richest%20Customer%20Wealth.py)|48 ms|
 |1678|[ Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Python3](./solutions/1678.%20Goal%20Parser%20Interpretation.py)|32 ms|
 |1732|[ Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[Python3](./solutions/1732.%20Find%20the%20Highest%20Altitude.py)|28 ms|
