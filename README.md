@@ -10,3 +10,4 @@
 |1480|[ Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python3](./solutions/1480.%20Running%20Sum%20of%201d%20Array.py)|40 ms|
 |1512|[ Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Python3](./solutions/1512.%20Number%20of%20Good%20Pairs.py)|36 ms|
 |1672|[ Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Python3](./solutions/1672.%20Richest%20Customer%20Wealth.py)|48 ms|
+|1773|[ Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)|[Python3](./solutions/1773.%20Count%20Items%20Matching%20a%20Rule.py)|240 ms|
