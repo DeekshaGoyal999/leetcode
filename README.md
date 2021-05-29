@@ -26,6 +26,7 @@
 |1512|[ Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Python3](./solutions/1512.%20Number%20of%20Good%20Pairs.py)|36 ms|
 |1528|[ Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Python3](./solutions/1528.%20Shuffle%20String.py)|56 ms|
 |1534|[ Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)|[Python3](./solutions/1534.%20Count%20Good%20Triplets.py)|376 ms|
+|1550|[ Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|[Python3](./solutions/1550.%20Three%20Consecutive%20Odds.py)|44 ms|
 |1614|[ Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|[Python3](./solutions/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.py)|28 ms|
 |1662|[ Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Python3](./solutions/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.py)|28 ms|
 |1672|[ Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Python3](./solutions/1672.%20Richest%20Customer%20Wealth.py)|48 ms|
