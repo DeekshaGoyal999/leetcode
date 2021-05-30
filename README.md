@@ -8,6 +8,7 @@
 |383|[ Ransom Note](https://leetcode.com/problems/ransom-note/)|[Python3](./solutions/383.%20Ransom%20Note.py)|40 ms|
 |387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python3](./solutions/387.%20First%20Unique%20Character%20in%20a%20String.py)|56 ms|
 |709|[ To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python3](./solutions/709.%20To%20Lower%20Case.py)|52 ms|
+|766|[ Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[Python3](./solutions/766.%20Toeplitz%20Matrix.py)|84 ms|
 |771|[ Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python3](./solutions/771.%20Jewels%20and%20Stones.py)|28 ms|
 |922|[ Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python3](./solutions/922.%20Sort%20Array%20By%20Parity%20II.py)|204 ms|
 |929|[ Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[Python3](./solutions/929.%20Unique%20Email%20Addresses.py)|80 ms|
