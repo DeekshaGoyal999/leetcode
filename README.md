@@ -35,6 +35,7 @@
 |1678|[ Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Python3](./solutions/1678.%20Goal%20Parser%20Interpretation.py)|32 ms|
 |1684|[ Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[Python3](./solutions/1684.%20Count%20the%20Number%20of%20Consistent%20Strings.py)|260 ms|
 |1732|[ Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[Python3](./solutions/1732.%20Find%20the%20Highest%20Altitude.py)|28 ms|
+|1752|[ Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)|[Python3](./solutions/1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated.py)|68 ms|
 |1768|[ Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)|[Python3](./solutions/1768.%20Merge%20Strings%20Alternately.py)|28 ms|
 |1773|[ Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)|[Python3](./solutions/1773.%20Count%20Items%20Matching%20a%20Rule.py)|240 ms|
 |1816|[ Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)|[Python3](./solutions/1816.%20Truncate%20Sentence.py)|28 ms|
