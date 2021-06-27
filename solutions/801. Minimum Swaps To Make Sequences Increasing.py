@@ -12,7 +12,7 @@ class Solution:
             xinc= nums1[i-1]<nums2[i] and nums2[i-1]< nums1[i]
             if inc and xinc:
                 swap[i]= min(swap[i-1],noswap[i-1])+1
-                noswap[i]= min(swap[i-1],noswap[i-1])
+                noswap[i]=min(swap[i-1],noswap[i-1])
             elif inc:
                 swap[i]=swap[i-1]+1
                 noswap[i] =noswap[i-1]
