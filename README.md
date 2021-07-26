@@ -4,6 +4,7 @@
 |---| ----- | -------- | ------- |
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)|[Python3](./solutions/1.%20Two%20Sum.py)|4012 ms|
 |33|[ Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python3](./solutions/33.%20Search%20in%20Rotated%20Sorted%20Array.py)|44 ms|
+|50|[ Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Python3](./solutions/50.%20Pow(x%2C%20n).py)|32 ms|
 |55|[ Jump Game](https://leetcode.com/problems/jump-game/)|[Python3](./solutions/55.%20Jump%20Game.py)|484 ms|
 |83|[ Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Python3](./solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.py)|40 ms|
 |136|[ Single Number](https://leetcode.com/problems/single-number/)|[Python3](./solutions/136.%20Single%20Number.py)|128 ms|
