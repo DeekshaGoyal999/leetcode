@@ -38,6 +38,7 @@
 |1365|[ How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Python3](./solutions/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.py)|428 ms|
 |1389|[ Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[Python3](./solutions/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order.py)|32 ms|
 |1431|[ Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Python3](./solutions/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.py)|40 ms|
+|1446|[ Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[Python3](./solutions/1446.%20Consecutive%20Characters.py)|44 ms|
 |1460|[ Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)|[Python3](./solutions/1460.%20Make%20Two%20Arrays%20Equal%20by%20Reversing%20Sub-arrays.py)|76 ms|
 |1470|[ Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Python3](./solutions/1470.%20Shuffle%20the%20Array.py)|52 ms|
 |1480|[ Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python3](./solutions/1480.%20Running%20Sum%20of%201d%20Array.py)|40 ms|
