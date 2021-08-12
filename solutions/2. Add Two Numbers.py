@@ -4,8 +4,10 @@
 #         self.val = val
 #         self.next = next
 class Solution:
+   
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
         head=l3=ListNode(0)
+        print("Linkedlist(0)",l3)
         carry=0
         while l1 or l2 or carry:
             if l1:
@@ -20,4 +22,22 @@ class Solution:
                 l3.next=ListNode(0)
                 l3=l3.next
         return head
-        
+    
+        #reverse 
+        # def rev(l):
+        #     prev=None
+        #     curr=l
+        #     while(curr):
+        #         temp=curr.next
+        #         curr.next=prev
+        #         prev=curr
+        #         curr=temp
+        #     return prev
+        # l11=rev(l1)
+        # l22=rev(l2)
+        # h=l3=ListNode(0)
+        # carry=0
+        # while l11 or l22 or carry:
+        #     if l11:
+        #         carry+=l11.val
+        #         l11=l11.next
