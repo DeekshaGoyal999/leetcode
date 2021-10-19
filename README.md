@@ -62,3 +62,4 @@
 |1823|[ Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)|[Python3](./solutions/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game.py)|524 ms|
 |1832|[ Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[Python3](./solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram.py)|52 ms|
 |1859|[ Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)|[Python3](./solutions/1859.%20Sorting%20the%20Sentence.py)|32 ms|
+|1913|[ Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)|[Python3](./solutions/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.py)|311 ms|
