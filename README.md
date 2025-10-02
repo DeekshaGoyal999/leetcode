@@ -75,4 +75,8 @@
 |  |
 | ------- |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DeekshaGoyal999/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/DeekshaGoyal999/leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
