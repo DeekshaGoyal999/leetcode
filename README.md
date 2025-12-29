@@ -81,6 +81,7 @@
 | [0007-reverse-integer](https://github.com/DeekshaGoyal999/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DeekshaGoyal999/leetcode/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/DeekshaGoyal999/leetcode/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/DeekshaGoyal999/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,4 +104,9 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/DeekshaGoyal999/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/DeekshaGoyal999/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/DeekshaGoyal999/leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/DeekshaGoyal999/leetcode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
