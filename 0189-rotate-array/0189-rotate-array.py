@@ -17,6 +17,7 @@ class Solution:
         #     # nums[i] =a
         # return nums
 
+        # M-3 3 reversal technique
         length = len(nums)
         k= k% length
         nums[:length-k]= reversed(nums[0:length-k])
