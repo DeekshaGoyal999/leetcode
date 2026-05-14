@@ -112,4 +112,8 @@
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/DeekshaGoyal999/leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/DeekshaGoyal999/leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
