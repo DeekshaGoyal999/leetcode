@@ -74,6 +74,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DeekshaGoyal999/leetcode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeekshaGoyal999/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/DeekshaGoyal999/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DeekshaGoyal999/leetcode/tree/master/0283-move-zeroes) |
@@ -120,4 +121,8 @@
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/DeekshaGoyal999/leetcode/tree/master/0182-duplicate-emails) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/DeekshaGoyal999/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
