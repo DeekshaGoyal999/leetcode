@@ -6,11 +6,19 @@ class Solution:
     #             if nums[i] + nums[j]== target:
     #                 return [i,j]
         
-        # M-2 Dictionary
-        nums_dict = {}
-        for i in range(len(nums)):
-            find_element = target - nums[i]
-            if find_element in nums_dict:
-                return [i, nums_dict[find_element]]
-            else:
-                nums_dict[nums[i]]=i
+        # # M-2 Dictionary or hashmap - same thing
+        # nums_dict = {}
+        # for i in range(len(nums)):
+        #     find_element = target - nums[i]
+        #     if find_element in nums_dict:
+        #         return [i, nums_dict[find_element]]
+        #     else:
+        #         nums_dict[nums[i]]=i
+
+        # hashmap method with time- O(n), space- O(n))
+        hashMap= {}
+        for index, element in enumerate(nums):
+            diff = target - element
+            if diff in hashMap:
+                return [hashMap[diff], index]
+            hashMap[element] = index
