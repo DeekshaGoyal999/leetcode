@@ -18,7 +18,7 @@ class Solution:
         #     return False
         # return self.isPalindrome(s,i+1)
 
-        #m-3 two pointer
+        #m-3 two pointer time= O(n) and space=O(1)
         left =0
         right = len(s)-1
         while right>left:
