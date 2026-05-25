@@ -112,6 +112,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/DeekshaGoyal999/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/DeekshaGoyal999/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/DeekshaGoyal999/leetcode/tree/master/0242-valid-anagram) |
 | [1903-largest-odd-number-in-string](https://github.com/DeekshaGoyal999/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -125,4 +126,9 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DeekshaGoyal999/leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/DeekshaGoyal999/leetcode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/DeekshaGoyal999/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
