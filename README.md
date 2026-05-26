@@ -79,6 +79,7 @@
 | [0189-rotate-array](https://github.com/DeekshaGoyal999/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DeekshaGoyal999/leetcode/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DeekshaGoyal999/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/DeekshaGoyal999/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Math
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/DeekshaGoyal999/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/DeekshaGoyal999/leetcode/tree/master/0242-valid-anagram) |
 | [1903-largest-odd-number-in-string](https://github.com/DeekshaGoyal999/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/DeekshaGoyal999/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Greedy
 |  |
 | ------- |
