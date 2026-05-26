@@ -78,6 +78,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeekshaGoyal999/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/DeekshaGoyal999/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DeekshaGoyal999/leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/DeekshaGoyal999/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DeekshaGoyal999/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/DeekshaGoyal999/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Math
@@ -139,4 +140,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeekshaGoyal999/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/DeekshaGoyal999/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/DeekshaGoyal999/leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
