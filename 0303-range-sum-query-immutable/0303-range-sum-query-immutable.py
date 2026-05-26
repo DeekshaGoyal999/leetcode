@@ -1,6 +1,7 @@
 class NumArray:
 
     def __init__(self, nums: List[int]):
+        #using prefix sum lofic here
         self.prefix = len(nums)*[0]
         self.prefix[0]= nums[0]
         for i in range(1,len(nums)):
