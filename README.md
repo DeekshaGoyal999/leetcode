@@ -77,6 +77,7 @@
 | [0001-two-sum](https://github.com/DeekshaGoyal999/leetcode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeekshaGoyal999/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/DeekshaGoyal999/leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/DeekshaGoyal999/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/DeekshaGoyal999/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/DeekshaGoyal999/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DeekshaGoyal999/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -131,10 +132,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/DeekshaGoyal999/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeekshaGoyal999/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/DeekshaGoyal999/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DeekshaGoyal999/leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/DeekshaGoyal999/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DeekshaGoyal999/leetcode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
