@@ -1,7 +1,5 @@
 class Solution:
     def reverse(self, x: int) -> int:
-        if x >(2**31)-1 or x< -2**31:
-            return 0
         rev =0
         mod_val=1
         if x<0:
