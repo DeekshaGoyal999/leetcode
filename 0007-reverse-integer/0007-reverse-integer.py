@@ -5,7 +5,6 @@ class Solution:
         if x<0:
             mod_val = -1
         x= abs(x)
-        print(x)
         while x>0:
             rem= x%10
             rev = rev*10 +rem
