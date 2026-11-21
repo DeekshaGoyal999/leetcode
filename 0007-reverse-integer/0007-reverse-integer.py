@@ -1,6 +1,6 @@
 class Solution:
     def reverse(self, x: int) -> int:
-        if x >=(2**31)-1 or x< -2**31:
+        if x >(2**31)-1 or x< -2**31:
             return 0
         rev =0
         mod_val=1
@@ -13,6 +13,6 @@ class Solution:
             rev = rev*10 +rem
             x=x//10
         rev = rev*mod_val
-        if rev >=(2**31)-1 or rev< -2**31:
+        if rev >(2**31)-1 or rev< -2**31:
             return 0
         return rev
